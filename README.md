@@ -1,2 +1,2 @@
 # gitplay
-A simple repository to demo git features
+A simple repository created during a TIND presentation, to demo git features!
